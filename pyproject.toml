@@ -1,0 +1,21 @@
+[project]
+name = "software-version-checker"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "YashVN", email = "yaswant.nanda@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "claude-agent-sdk>=0.2.166",
+    "ipykernel>=7.4.0",
+    "python-dotenv>=1.2.4",
+]
+
+[project.scripts]
+software-version-checker = "software_version_checker:main"
+
+[build-system]
+requires = ["uv_build>=0.12.17,<0.13.0"]
+build-backend = "uv_build"
