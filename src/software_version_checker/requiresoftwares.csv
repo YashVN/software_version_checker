@@ -1,0 +1,10 @@
+sno,name,version,url
+1,Python,3.12,https://www.python.org/
+2,JavaScript,ES2024,https://developer.mozilla.org/
+3,TypeScript,5.4,https://www.typescriptlang.org/
+4,Rust,1.77,https://www.rust-lang.org/
+5,Go,1.22,https://golang.org/
+6,Java,21,https://www.java.com/
+7,C++,C++23,https://isocpp.org/
+8,Swift,5.1,https://swift.org/
+9,Kotlin,1.9,https://kotlinlang.org/

@@ -1,2 +1,3 @@
-def main() -> None:
-    print("Hello from software-version-checker!")
+from .agent import main
+
+__all__ = ["main"]
